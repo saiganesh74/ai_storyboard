@@ -1,6 +1,5 @@
 from modules.input_handler import get_scene_description
 from modules.gpt_ai import generate_storyboard 
-from modules.storyboard_formatter import display_storyboard
 def main():
     print("Welcome to the AI story board generator !!!")
     scene = get_scene_description()
