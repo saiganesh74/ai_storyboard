@@ -20,8 +20,8 @@ Frame 3: The girl looks up at the cloudy sky.
 ## Usage
 ```
 sudo apt install python3
-git clone https://github.com/saiganesh74/ai_storyboard
-cd ai_storyboard
+git clone https://github.com/saiganesh74/Ai_storyboard
+cd Ai_storyboard
 python3 main.py
 ```
 ## Dependencies
